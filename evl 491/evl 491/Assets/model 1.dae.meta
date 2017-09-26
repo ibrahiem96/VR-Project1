@@ -1,0 +1,460 @@
+fileFormatVersion: 2
+guid: 6af6037df3631f14a872b47fba61abd9
+timeCreated: 1506325760
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _12__mitred_connector
+    100002: _12__mitred_connector 1
+    100004: _12__mitred_connector 2
+    100006: _12__mitred_connector 3
+    100008: _12_ISS_Fusion_Brackets
+    100010: _12_ISS_Fusion_Brackets 1
+    100012: _12_ISS_Fusion_Brackets 10
+    100014: _12_ISS_Fusion_Brackets 11
+    100016: _12_ISS_Fusion_Brackets 12
+    100018: _12_ISS_Fusion_Brackets 13
+    100020: _12_ISS_Fusion_Brackets 14
+    100022: _12_ISS_Fusion_Brackets 15
+    100024: _12_ISS_Fusion_Brackets 16
+    100026: _12_ISS_Fusion_Brackets 17
+    100028: _12_ISS_Fusion_Brackets 18
+    100030: _12_ISS_Fusion_Brackets 19
+    100032: _12_ISS_Fusion_Brackets 2
+    100034: _12_ISS_Fusion_Brackets 20
+    100036: _12_ISS_Fusion_Brackets 21
+    100038: _12_ISS_Fusion_Brackets 22
+    100040: _12_ISS_Fusion_Brackets 23
+    100042: _12_ISS_Fusion_Brackets 24
+    100044: _12_ISS_Fusion_Brackets 25
+    100046: _12_ISS_Fusion_Brackets 26
+    100048: _12_ISS_Fusion_Brackets 27
+    100050: _12_ISS_Fusion_Brackets 3
+    100052: _12_ISS_Fusion_Brackets 4
+    100054: _12_ISS_Fusion_Brackets 5
+    100056: _12_ISS_Fusion_Brackets 6
+    100058: _12_ISS_Fusion_Brackets 7
+    100060: _12_ISS_Fusion_Brackets 8
+    100062: _12_ISS_Fusion_Brackets 9
+    100064: base
+    100066: ID84
+    100068: ID94
+    100070: image_0
+    100072: instance_0
+    100074: instance_1
+    100076: instance_10
+    100078: instance_11
+    100080: instance_12
+    100082: instance_13
+    100084: instance_14
+    100086: instance_15
+    100088: instance_16
+    100090: instance_17
+    100092: instance_18
+    100094: instance_19
+    100096: instance_2
+    100098: instance_2 1
+    100100: instance_2 10
+    100102: instance_2 11
+    100104: instance_2 12
+    100106: instance_2 13
+    100108: instance_2 2
+    100110: instance_2 3
+    100112: instance_2 4
+    100114: instance_2 5
+    100116: instance_2 6
+    100118: instance_2 7
+    100120: instance_2 8
+    100122: instance_2 9
+    100124: instance_20
+    100126: instance_21
+    100128: instance_22
+    100130: instance_23
+    100132: instance_24
+    100134: instance_3
+    100136: instance_3 1
+    100138: instance_3 10
+    100140: instance_3 11
+    100142: instance_3 12
+    100144: instance_3 13
+    100146: instance_3 2
+    100148: instance_3 3
+    100150: instance_3 4
+    100152: instance_3 5
+    100154: instance_3 6
+    100156: instance_3 7
+    100158: instance_3 8
+    100160: instance_3 9
+    100162: instance_4
+    100164: instance_4 1
+    100166: instance_4 10
+    100168: instance_4 11
+    100170: instance_4 12
+    100172: instance_4 13
+    100174: instance_4 2
+    100176: instance_4 3
+    100178: instance_4 4
+    100180: instance_4 5
+    100182: instance_4 6
+    100184: instance_4 7
+    100186: instance_4 8
+    100188: instance_4 9
+    100190: instance_5
+    100192: instance_6
+    100194: instance_7
+    100196: instance_8
+    100198: instance_9
+    100200: ISS_93__Mitered_poles
+    100202: ISS_93__Mitered_poles 1
+    100204: ISS_93__Mitered_poles 2
+    100206: iss_shelf_33x12
+    100208: iss_shelf_33x12 1
+    100210: iss_shelf_33x12 10
+    100212: iss_shelf_33x12 11
+    100214: iss_shelf_33x12 12
+    100216: iss_shelf_33x12 13
+    100218: iss_shelf_33x12 2
+    100220: iss_shelf_33x12 3
+    100222: iss_shelf_33x12 4
+    100224: iss_shelf_33x12 5
+    100226: iss_shelf_33x12 6
+    100228: iss_shelf_33x12 7
+    100230: iss_shelf_33x12 8
+    100232: iss_shelf_33x12 9
+    100234: //RootNode
+    100236: shelf_with_clip
+    100238: shelf_with_clip 1
+    100240: shelf_with_clip 10
+    100242: shelf_with_clip 11
+    100244: shelf_with_clip 12
+    100246: shelf_with_clip 13
+    100248: shelf_with_clip 2
+    100250: shelf_with_clip 3
+    100252: shelf_with_clip 4
+    100254: shelf_with_clip 5
+    100256: shelf_with_clip 6
+    100258: shelf_with_clip 7
+    100260: shelf_with_clip 8
+    100262: shelf_with_clip 9
+    100264: skp_camera_Last_Saved_SketchUp_View
+    400000: _12__mitred_connector
+    400002: _12__mitred_connector 1
+    400004: _12__mitred_connector 2
+    400006: _12__mitred_connector 3
+    400008: _12_ISS_Fusion_Brackets
+    400010: _12_ISS_Fusion_Brackets 1
+    400012: _12_ISS_Fusion_Brackets 10
+    400014: _12_ISS_Fusion_Brackets 11
+    400016: _12_ISS_Fusion_Brackets 12
+    400018: _12_ISS_Fusion_Brackets 13
+    400020: _12_ISS_Fusion_Brackets 14
+    400022: _12_ISS_Fusion_Brackets 15
+    400024: _12_ISS_Fusion_Brackets 16
+    400026: _12_ISS_Fusion_Brackets 17
+    400028: _12_ISS_Fusion_Brackets 18
+    400030: _12_ISS_Fusion_Brackets 19
+    400032: _12_ISS_Fusion_Brackets 2
+    400034: _12_ISS_Fusion_Brackets 20
+    400036: _12_ISS_Fusion_Brackets 21
+    400038: _12_ISS_Fusion_Brackets 22
+    400040: _12_ISS_Fusion_Brackets 23
+    400042: _12_ISS_Fusion_Brackets 24
+    400044: _12_ISS_Fusion_Brackets 25
+    400046: _12_ISS_Fusion_Brackets 26
+    400048: _12_ISS_Fusion_Brackets 27
+    400050: _12_ISS_Fusion_Brackets 3
+    400052: _12_ISS_Fusion_Brackets 4
+    400054: _12_ISS_Fusion_Brackets 5
+    400056: _12_ISS_Fusion_Brackets 6
+    400058: _12_ISS_Fusion_Brackets 7
+    400060: _12_ISS_Fusion_Brackets 8
+    400062: _12_ISS_Fusion_Brackets 9
+    400064: base
+    400066: ID84
+    400068: ID94
+    400070: image_0
+    400072: instance_0
+    400074: instance_1
+    400076: instance_10
+    400078: instance_11
+    400080: instance_12
+    400082: instance_13
+    400084: instance_14
+    400086: instance_15
+    400088: instance_16
+    400090: instance_17
+    400092: instance_18
+    400094: instance_19
+    400096: instance_2
+    400098: instance_2 1
+    400100: instance_2 10
+    400102: instance_2 11
+    400104: instance_2 12
+    400106: instance_2 13
+    400108: instance_2 2
+    400110: instance_2 3
+    400112: instance_2 4
+    400114: instance_2 5
+    400116: instance_2 6
+    400118: instance_2 7
+    400120: instance_2 8
+    400122: instance_2 9
+    400124: instance_20
+    400126: instance_21
+    400128: instance_22
+    400130: instance_23
+    400132: instance_24
+    400134: instance_3
+    400136: instance_3 1
+    400138: instance_3 10
+    400140: instance_3 11
+    400142: instance_3 12
+    400144: instance_3 13
+    400146: instance_3 2
+    400148: instance_3 3
+    400150: instance_3 4
+    400152: instance_3 5
+    400154: instance_3 6
+    400156: instance_3 7
+    400158: instance_3 8
+    400160: instance_3 9
+    400162: instance_4
+    400164: instance_4 1
+    400166: instance_4 10
+    400168: instance_4 11
+    400170: instance_4 12
+    400172: instance_4 13
+    400174: instance_4 2
+    400176: instance_4 3
+    400178: instance_4 4
+    400180: instance_4 5
+    400182: instance_4 6
+    400184: instance_4 7
+    400186: instance_4 8
+    400188: instance_4 9
+    400190: instance_5
+    400192: instance_6
+    400194: instance_7
+    400196: instance_8
+    400198: instance_9
+    400200: ISS_93__Mitered_poles
+    400202: ISS_93__Mitered_poles 1
+    400204: ISS_93__Mitered_poles 2
+    400206: iss_shelf_33x12
+    400208: iss_shelf_33x12 1
+    400210: iss_shelf_33x12 10
+    400212: iss_shelf_33x12 11
+    400214: iss_shelf_33x12 12
+    400216: iss_shelf_33x12 13
+    400218: iss_shelf_33x12 2
+    400220: iss_shelf_33x12 3
+    400222: iss_shelf_33x12 4
+    400224: iss_shelf_33x12 5
+    400226: iss_shelf_33x12 6
+    400228: iss_shelf_33x12 7
+    400230: iss_shelf_33x12 8
+    400232: iss_shelf_33x12 9
+    400234: //RootNode
+    400236: shelf_with_clip
+    400238: shelf_with_clip 1
+    400240: shelf_with_clip 10
+    400242: shelf_with_clip 11
+    400244: shelf_with_clip 12
+    400246: shelf_with_clip 13
+    400248: shelf_with_clip 2
+    400250: shelf_with_clip 3
+    400252: shelf_with_clip 4
+    400254: shelf_with_clip 5
+    400256: shelf_with_clip 6
+    400258: shelf_with_clip 7
+    400260: shelf_with_clip 8
+    400262: shelf_with_clip 9
+    400264: skp_camera_Last_Saved_SketchUp_View
+    2300000: _12__mitred_connector
+    2300002: _12__mitred_connector 1
+    2300004: _12__mitred_connector 2
+    2300006: _12__mitred_connector 3
+    2300008: _12_ISS_Fusion_Brackets
+    2300010: _12_ISS_Fusion_Brackets 1
+    2300012: _12_ISS_Fusion_Brackets 10
+    2300014: _12_ISS_Fusion_Brackets 11
+    2300016: _12_ISS_Fusion_Brackets 12
+    2300018: _12_ISS_Fusion_Brackets 13
+    2300020: _12_ISS_Fusion_Brackets 14
+    2300022: _12_ISS_Fusion_Brackets 15
+    2300024: _12_ISS_Fusion_Brackets 16
+    2300026: _12_ISS_Fusion_Brackets 17
+    2300028: _12_ISS_Fusion_Brackets 18
+    2300030: _12_ISS_Fusion_Brackets 19
+    2300032: _12_ISS_Fusion_Brackets 2
+    2300034: _12_ISS_Fusion_Brackets 20
+    2300036: _12_ISS_Fusion_Brackets 21
+    2300038: _12_ISS_Fusion_Brackets 22
+    2300040: _12_ISS_Fusion_Brackets 23
+    2300042: _12_ISS_Fusion_Brackets 24
+    2300044: _12_ISS_Fusion_Brackets 25
+    2300046: _12_ISS_Fusion_Brackets 26
+    2300048: _12_ISS_Fusion_Brackets 27
+    2300050: _12_ISS_Fusion_Brackets 3
+    2300052: _12_ISS_Fusion_Brackets 4
+    2300054: _12_ISS_Fusion_Brackets 5
+    2300056: _12_ISS_Fusion_Brackets 6
+    2300058: _12_ISS_Fusion_Brackets 7
+    2300060: _12_ISS_Fusion_Brackets 8
+    2300062: _12_ISS_Fusion_Brackets 9
+    2300064: base
+    2300066: ID84
+    2300068: ID94
+    2300070: image_0
+    2300072: ISS_93__Mitered_poles
+    2300074: ISS_93__Mitered_poles 1
+    2300076: ISS_93__Mitered_poles 2
+    2300078: iss_shelf_33x12
+    2300080: iss_shelf_33x12 1
+    2300082: iss_shelf_33x12 10
+    2300084: iss_shelf_33x12 11
+    2300086: iss_shelf_33x12 12
+    2300088: iss_shelf_33x12 13
+    2300090: iss_shelf_33x12 2
+    2300092: iss_shelf_33x12 3
+    2300094: iss_shelf_33x12 4
+    2300096: iss_shelf_33x12 5
+    2300098: iss_shelf_33x12 6
+    2300100: iss_shelf_33x12 7
+    2300102: iss_shelf_33x12 8
+    2300104: iss_shelf_33x12 9
+    3300000: _12__mitred_connector
+    3300002: _12__mitred_connector 1
+    3300004: _12__mitred_connector 2
+    3300006: _12__mitred_connector 3
+    3300008: _12_ISS_Fusion_Brackets
+    3300010: _12_ISS_Fusion_Brackets 1
+    3300012: _12_ISS_Fusion_Brackets 10
+    3300014: _12_ISS_Fusion_Brackets 11
+    3300016: _12_ISS_Fusion_Brackets 12
+    3300018: _12_ISS_Fusion_Brackets 13
+    3300020: _12_ISS_Fusion_Brackets 14
+    3300022: _12_ISS_Fusion_Brackets 15
+    3300024: _12_ISS_Fusion_Brackets 16
+    3300026: _12_ISS_Fusion_Brackets 17
+    3300028: _12_ISS_Fusion_Brackets 18
+    3300030: _12_ISS_Fusion_Brackets 19
+    3300032: _12_ISS_Fusion_Brackets 2
+    3300034: _12_ISS_Fusion_Brackets 20
+    3300036: _12_ISS_Fusion_Brackets 21
+    3300038: _12_ISS_Fusion_Brackets 22
+    3300040: _12_ISS_Fusion_Brackets 23
+    3300042: _12_ISS_Fusion_Brackets 24
+    3300044: _12_ISS_Fusion_Brackets 25
+    3300046: _12_ISS_Fusion_Brackets 26
+    3300048: _12_ISS_Fusion_Brackets 27
+    3300050: _12_ISS_Fusion_Brackets 3
+    3300052: _12_ISS_Fusion_Brackets 4
+    3300054: _12_ISS_Fusion_Brackets 5
+    3300056: _12_ISS_Fusion_Brackets 6
+    3300058: _12_ISS_Fusion_Brackets 7
+    3300060: _12_ISS_Fusion_Brackets 8
+    3300062: _12_ISS_Fusion_Brackets 9
+    3300064: base
+    3300066: ID84
+    3300068: ID94
+    3300070: image_0
+    3300072: ISS_93__Mitered_poles
+    3300074: ISS_93__Mitered_poles 1
+    3300076: ISS_93__Mitered_poles 2
+    3300078: iss_shelf_33x12
+    3300080: iss_shelf_33x12 1
+    3300082: iss_shelf_33x12 10
+    3300084: iss_shelf_33x12 11
+    3300086: iss_shelf_33x12 12
+    3300088: iss_shelf_33x12 13
+    3300090: iss_shelf_33x12 2
+    3300092: iss_shelf_33x12 3
+    3300094: iss_shelf_33x12 4
+    3300096: iss_shelf_33x12 5
+    3300098: iss_shelf_33x12 6
+    3300100: iss_shelf_33x12 7
+    3300102: iss_shelf_33x12 8
+    3300104: iss_shelf_33x12 9
+    4300000: ISS_93__Mitered_poles
+    4300002: iss_shelf_33x12
+    4300004: _12_ISS_Fusion_Brackets
+    4300006: base
+    4300008: ID84
+    4300010: ID94
+    4300012: ISS_93__Mitered_poles
+    4300014: iss_shelf_33x12
+    4300016: _12_ISS_Fusion_Brackets
+    4300018: _12__mitred_connector
+    4300020: _12__mitred_connector
+    4300022: image_0
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
