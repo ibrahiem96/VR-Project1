@@ -1,0 +1,42 @@
+Assets:
+
+(From 3D Warehouse):
+Pen - https://3dwarehouse.sketchup.com/model/cdf54835677a246f9bbaaf08505f5db3/pen
+Board Marker - https://3dwarehouse.sketchup.com/model/7fcaf9e9a1fa0d5f729e474769d21582/Board-Marker
+White Board - https://3dwarehouse.sketchup.com/model/f4abfac119a7aecc6553eb23613ec7c8/8-foot-whiteboard
+Fidget Spinner - https://3dwarehouse.sketchup.com/model/fc9d3952-505c-4091-8681-7bcc331dcd73/fidget-spinner
+Kanban Board - https://3dwarehouse.sketchup.com/model/u0c6f102f-b460-4c00-a0d8-f9c13f8a93ad/Kanban-Divide
+Chair - https://3dwarehouse.sketchup.com/model/u858a3d5e-a710-44d3-a8d4-aa9239562407/Chair-Modern-kitchen-stainles-steel-legs-profil 
+Table - https://3dwarehouse.sketchup.com/model/867a0b12-f548-4aac-895f-b4c4725ac91b/SQUARE-MEETING-TABLE
+Office Plant - https://3dwarehouse.sketchup.com/model/e9f6c53454e068cb2ff65fa033da81db/House-Plant
+TV - https://3dwarehouse.sketchup.com/model/9cf7c1a5-22ad-49e3-8325-9e5e6233ff2f/TV-VIZIO-SmartCast-M-Series-80
+Projector Screen - https://3dwarehouse.sketchup.com/model/8ec4051c0a1033782ad490d4d7fae486/projector-screen
+Projector - https://3dwarehouse.sketchup.com/model/d47929b0dbf99bc623ab4519e0263310/Data-Projector
+Employee Card - https://3dwarehouse.sketchup.com/model/8254d2aa585b1058bf4089c942914cbd/Social-Insurance-Card
+Card Reader - https://3dwarehouse.sketchup.com/model/1bcd56de3b9ef723e8d36f58a2a474b/RFID-Card-Reader-Flat-Type
+iPad - https://3dwarehouse.sketchup.com/model/ub4f060d2-056e-4409-8b3c-e16033d40577/iPad-Air-2-Space-Grey
+Conference Phone - https://3dwarehouse.sketchup.com/model/u05754c81-e8cf-489c-b6d7-b3ecc1e74daa/Konftel-300IP-conference-phone
+HDMI Cable - https://3dwarehouse.sketchup.com/model/30e259ab2d26eb95efd4f7d5d99468fc/iPod-iPad-HDMI-Cable
+Vending machine - https://3dwarehouse.sketchup.com/model/u972ed681-aab4-4257-ac06-d803772307a6/Vending-machine-mesin-minuman
+Tv remote - https://3dwarehouse.sketchup.com/model/ubdb9d810-afb9-4509-bde4-adb4036989e7/TV-Remote
+Lava Lamp - https://3dwarehouse.sketchup.com/model/c8df6d69ebd238935f7f2cf289fe662b/Lava-Lamp
+No Smoking Sign - https://3dwarehouse.sketchup.com/model/99cf835e90bf72baae91e0accf164be0/low-poly-no-smoking-sign-webbings-font
+Magazine Stack - https://3dwarehouse.sketchup.com/model/9ee8ceff2bd0f1adb3480c13e0bfacdf/Stack-of-Architectural-Digest-Magazines
+Notepad paper - https://3dwarehouse.sketchup.com/model/dee3d9a8f8f5f0b0338ebcb6173e7ffb/Notepads-Yellow-Lined-Note-Paper
+Wall mounted shelf - https://3dwarehouse.sketchup.com/model/7086608913947e57d810b14a81e12eca/Wall-Mounted-Bookshelf-by-Smart-Furniture
+Books - https://3dwarehouse.sketchup.com/model/u85c78c0c-2d86-4d45-b265-c920254ffbf6/Books
+
+Audio (from https://freesound.org/):
+- Bass drop
+- Windows XP startup
+- Squeeze sound
+- bubbles sound
+- teleportation ping
+
+Textures:
+- Only used what came with the models, nothing extra
+
+TO RUN:
+
+You can run the executable in the project dir (found on the github repo)
+Or you can open UNITY and open the project and run the scene from there
